@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ucqvpgyhh45bv.github.io/ReShade-HDR-Installer/sitemap.xml
